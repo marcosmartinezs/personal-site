@@ -5,7 +5,6 @@ author:
   email: martinezsugastti@ucdavis.edu
 description: "My personal site."
 twitter_username: marcoscosm
-github_username: marcosmartinezs
 
 # Build settings
 remote_theme: jekyll/minima
