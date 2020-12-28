@@ -4,8 +4,6 @@ author:
   name: Marcos Martinez Sugastti
   email: martinezsugastti@ucdavis.edu
 description: "My personal site."
-twitter_username: marcoscosm
-github_username: marcosmartinezs
 
 # Build settings
 remote_theme: jekyll/minimal
