@@ -6,4 +6,4 @@ author:
 description: "My personal site."
 
 # Build settings
-remote_theme: jekyll/minimal
+remote_theme: jekyll/minima
